@@ -11,7 +11,8 @@ This year main problem was 'Unsupervised abnormality detection by using intellig
 
 A summary and overview of the solved problem is illustrated below.
 
-![Result on IMU data](illustration/annomaly score for datasetB1csv.png)
+![Result on IMU Data](illustration/annomaly score for datasetB1csv.png)
+
 
 Anomaly score generated from IMU data by both unsupervised algorithm, Isolation forest and DevNet is displayed on above figure. This was generated on one abnormal rosbag. 
 
