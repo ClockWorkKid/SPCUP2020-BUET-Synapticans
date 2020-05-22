@@ -1,1 +1,1 @@
-This is code of Isolation forest algorithm. You can run these independently to detect anomaly.
+This is code of Isolation forest algorithm. You can run these independently to detect anomaly.More details about Isolation Forest is in the [link](https://github.com/aia39/Unsupervised_Anomaly_Detection_from-Multimodal_sensorial_info_of_Drone_by_Isolation-Forest). More experimentation and details is given in the repo on multimodal data.
