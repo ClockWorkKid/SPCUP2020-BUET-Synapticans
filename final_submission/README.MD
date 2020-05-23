@@ -27,3 +27,13 @@
 **Step 6:**
 	After Step 5 , anomaly scores per timestamp will be stored in a csv file corresponding to each
 	bag file in the "results" directory and a general report will be printed in "reports" directory
+
+
+
+# Reference 
+
+1.Isolation Forest
+https://ieeexplore.ieee.org/abstract/document/4781136/?casa_token=mql_bhbOVuUAAAAA:mQpuMPujitQT7vU05vLhBr0qJtEPifgNvuXjlhoY0v2KfIFfo40FKR3wjsRUVtXyVyMiauynx-OUog
+
+2.DevNet
+https://arxiv.org/pdf/1911.08623.pdf
