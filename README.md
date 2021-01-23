@@ -1,5 +1,6 @@
 # SPCUP2020-BUET-Synapticans
-This repository contains the project files containing our approach towards solving the problem statement of IEEE Signal Processing Cup 2020
+This repository contains the project files containing our approach towards solving the problem statement of IEEE Signal Processing Cup 2020. We placed 5th position in this competition. 
+![top10](illustration/spcuptop10.JPG)
 
 There are four main parts to the project, 'final_submission' contains all the final versions of the codes, an overall solution process to the project. 'Isolation forest (standalone)' contains all necessary files to implement isolation forest alone on a dataset to solve problem. In order to understand how to use the files, head to that folder and see the README
 
